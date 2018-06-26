@@ -6,3 +6,5 @@ def num3(request):
 	return HttpResponse('/num3/xxx')
 def num4(request):
 	return HttpResponse('/num4/xxx')
+def num5(resquest):
+	return HttpResponse('/num5/xxx')
