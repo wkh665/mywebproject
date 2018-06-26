@@ -4,3 +4,5 @@ def num2(request):
 	return HttpResponse('/num2/xx')
 def num3(request):
 	return HttpResponse('/num3/xxx')
+def num4(request):
+	return HttpResponse('/num4/xxx')
